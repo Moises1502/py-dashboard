@@ -1,13 +1,46 @@
 # python-dashboard-panel
-### Interactive visualization dashboard in Python with Panel
+> git clone [URL]
+Este comando es para clonar el proyecto
 
-This repo contains code for the portfolio project on my Youtube channel (https://www.youtube.com/watch?v=uhxiXOTKzfs&t=26s)
+> cd py-dashboard
+Este comando sirve para entar al folder del proyecto
+> python3.10 -m venv venv 
+Este comando crea el entorno virtual en python
 
-If you want to see all the dependencies for this project, please see requirements.txt file.
+ >source venv/bin/activate
+ Este comando nos ingresa al entorno virtual 
 
-To serve the dashboard locally, use the command:
-```
-panel serve Interactive_dashboard.ipynb
-```
+ > pip install -r requerimientos.txt
+ 
+ Instala las librerias de pyhton que estan definidas en el archivo de requerimientos
 
-![375CCFBB-71E5-4040-AE2E-A79D9FD04E6E](https://user-images.githubusercontent.com/22730220/157565990-3e36c238-5bda-43d7-8bab-56c9c1984ddb.jpeg)
+ > python app.py
+ Ejecuta el proyecto
+ ## Comandos extras
+ > deactivate
+ Cierra el entorno virtual
+ > ls 
+ Muestra los archivos del directorio actual 
+ > history
+ Muestra todos los comandos utilizados en la memoria del bash
+ > cd ...
+ Regresa al folder anterior inmediato 
+ > cd 
+ te envia al /home/user del usuario actual 
+ > mkdir CARPETA_NAME 
+ Crea una carpeta o folder con el nombre  CARPETA_NAME 
+ > rm FILE 
+ Borrar un archivo
+ > exit
+ Cierrra la consola de bash
+ > more FILE 
+ Muestra el contenido de un archivo
+ > pwd 
+ Muestra el path o ruta actual del usuario 
+ > touch FILE
+ Crea un archivo en blanco 
+ > mv FILE NEW_FILE
+ Renombra el archivo 
+ > mv FILE CARPETA/
+ Mueve el file a la CARPETA
+ 
