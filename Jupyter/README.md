@@ -1,6 +1,6 @@
 # python-dashboard-panel
 > git clone [URL]
-Este comando es para clonar el proyecto
+Este comando es para clonar el proyecto 
 
 > cd py-dashboard
 Este comando sirve para entar al folder del proyecto
@@ -43,4 +43,4 @@ Este comando crea el entorno virtual en python
  Renombra el archivo 
  > mv FILE CARPETA/
  Mueve el file a la CARPETA
- 
+
